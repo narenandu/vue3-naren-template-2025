@@ -3,7 +3,7 @@
 
     <h1 class="p-8">Home</h1>
 
-    <Welcome msg="Naren Vue3 + Vue + TS 2025 Starter" />
+    <Welcome msg="Naren Vue3 + Vite + TS - 2025 Starter" />
 
     <button @click="goToAbout">Go to About</button>
   </div>
